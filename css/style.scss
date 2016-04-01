@@ -1,0 +1,34 @@
+///////////
+// CHART //
+///////////
+
+canvas {
+  // background-color: blue;
+}
+
+////////////////////////
+// PROBABILITY SLIDER //
+////////////////////////
+
+.slider {
+  .ui-slider-range {
+    background-color: blue;
+  }
+
+
+  .ui-slider-handle {
+    background: white;
+  }
+
+  .ui-state-focus {
+    outline: 0;
+  }
+}
+
+///////////
+// ERROR //
+///////////
+
+.select-one-error {
+  display: none;
+}

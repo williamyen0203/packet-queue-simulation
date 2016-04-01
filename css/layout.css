@@ -1,0 +1,41 @@
+canvas {
+  width: 100%;
+  height: auto; }
+
+.y-axis {
+  transform: rotate(-90deg);
+  transform-origin: center center 0;
+  white-space: nowrap;
+  position: absolute;
+  left: 10px;
+  top: 40%; }
+
+.x-axis {
+  text-align: center; }
+
+.chart-legend {
+  position: absolute;
+  top: 40px;
+  left: 40px; }
+  .chart-legend li {
+    list-style-type: none; }
+    .chart-legend li span {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      margin-right: 5px; }
+
+.user-forms {
+  margin-top: 30px; }
+
+.slider {
+  text-align: center;
+  margin-top: 10px; }
+
+.control-label {
+  text-align: left !important; }
+
+.select-one-error {
+  margin-top: 20px; }
+
+/*# sourceMappingURL=layout.css.map */

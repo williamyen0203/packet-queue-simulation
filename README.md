@@ -1,2 +1,2 @@
-# queueing-system
-Queueing System Simulation
+# packet-queue-simulation
+Discrete Time Queue Packet Simulation
